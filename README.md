@@ -6,7 +6,6 @@ Project Requirements
 ====================
 
 ## Create an array of objects
-Each quote should have the following properties:
 - [x] Array of objects is named quotes. 
 - [x] Array contains at least 5 quote objects. 
 - [x] Array is free of errors.
@@ -16,8 +15,8 @@ Each quote should have the following properties:
 - [x] At least one object in array includes citation property.
 - [x] At least one object in array includes year property.
 Extra credit:
-Objects in array include additional properties, such as categorization tags
-Additional properties are displayed on screen when present in quote object.
+- [x] Objects in array include additional properties, such as categorization tags
+- [x] Additional properties are displayed on screen when present in quote object.
 
 ## `getRandomQuote` function
 - [x] Function is named getRandomQuote and returns a random object from the quotes array.
