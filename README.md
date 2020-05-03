@@ -38,4 +38,4 @@ Extra credit:
 # Live demo
 [Click here for a live demo](https://dirkverest.com/portfolio/tdp-1-random-quote-generator/)
 
-[Thumbnail]: https://github.com/dirkverest/tdp-1-random-quote-generator/blob/master/thumbnail.jpg "Random Quote Generator"
+[Thumbnail]: (https://dirkverest.com/portfolio/tdp-1-random-quote-generator/thumbnail.jpg "Random Quote Generator Thumbnail")
