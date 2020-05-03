@@ -36,4 +36,6 @@ Extra credit:
 - [x] Comments are included in the code.
 
 # Live demo
-Link here
+[Click here for a live demo](https://dirkverest.com/portfolio/tdp-1-random-quote-generator/)
+
+[Thumbnail]: https://github.com/dirkverest/tdp-1-random-quote-generator/blob/master/thumbnail.jpg "Random Quote Generator"
