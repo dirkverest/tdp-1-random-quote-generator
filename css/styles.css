@@ -83,9 +83,12 @@ body {
   border-radius: 4px;
   border: 2px solid #fff;
   color: #fff;
-  background-color: #36b55c;
+  /* background-color: #36b55c; */
   padding: 15px 0;
   transition: .5s ;
+  /* custom css: */
+  cursor: pointer;
+  background-color: transparent; 
 }
 #loadQuote:hover {
   background-color: rgba(255,255,255,.25);
