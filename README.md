@@ -1,5 +1,5 @@
 # Project 1 - Random Quote Generator
-Treehouse Techdegree Project #1. App that displays random famous quotes each time a button is clicked.
+Treehouse Techdegree Project #1. App that displays random famous quotes each time a button is clicked.<br/>
 Grade: Exceeds Expectations
 
 Project Requirements
